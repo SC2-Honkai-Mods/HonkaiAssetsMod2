@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=包含崩坏3各式模型和贴图，仅作为相关地图和mod的依赖项使用
+DocInfo/DescShort=0
+DocInfo/Name=崩坏3资源包2 Honkai Impact 3rd Assets 2
